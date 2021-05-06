@@ -1,2 +1,0 @@
-# CleanArch1
-Training
